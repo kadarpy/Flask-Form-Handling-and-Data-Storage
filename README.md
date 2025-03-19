@@ -15,7 +15,7 @@ This project is a simple **Flask-based web application** that allows users to su
 ## 🛠 Tech Stack
 | Component  | Technology |
 |------------|------------|
-| **Backend** | Flask, Flask-SQLAlchemy |
+| **Backend** | Python, Flask, Flask-SQLAlchemy |
 | **Frontend** | HTML, CSS, JavaScript (Bootstrap) |
 | **Database** | SQLite/MySQL |
 
@@ -84,3 +84,5 @@ This project is **open-source** and available under the **MIT License**.
 ## 🌟 Contributing
 Feel free to contribute by opening issues or submitting pull requests. Happy coding! 🚀
 
+
+Feel free to contribute by opening issues or submitting pull requests. Happy coding! 🚀

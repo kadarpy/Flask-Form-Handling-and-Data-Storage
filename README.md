@@ -15,8 +15,8 @@ This project is a simple **Flask-based web application** that allows users to su
 ## 🛠 Tech Stack
 | Component  | Technology |
 |------------|------------|
-| **Backend** | Python, Flask, Flask-SQLAlchemy |
-| **Frontend** | HTML, CSS, JavaScript (Bootstrap) |
+| **Backend** | PYTHON, FLASK, Flask-SQLAlchemy |
+| **Frontend** | HTML, CSS, JAVASCRIPT (Bootstrap) |
 | **Database** | SQLite/MySQL |
 
 ---
